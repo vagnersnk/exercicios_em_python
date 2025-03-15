@@ -8,20 +8,20 @@ G. Escreva um algoritmo que leia duas variáveis inteiras e troque o conteúdo e
 H. Prepare um algoritmo capaz de inverter um número de 3 dígitos fornecido pelo usuário. A inversão consiste em apresentar primeiro a unidade, seguida da dezena e por último a centena.    
 I. Desenvolva um algoritmo que leia três valores (a, b e c) de uma equação do segundo grau do tipo ax2+bx+c = 0 e mostre as raízes dessa equação.   
 J. Desenvolva um algoritmo que leia duas notas e calcule a nota final do aluno. Considere a média ponderada, onde a primeira nota tem peso 2 e a segunda nota tem peso 3.   
-L. Escreva um algoritmo que receba os lados de quadrilátero e diga se ele é um quadrado ou não.     
-M. Desenvolva um algoritmo que leia um valor de hora (uma variável para a hora e outra para minuto) e informe quantos minutos se passaram desde o início do dia.    
-N. Sabe-se que para iluminar 1 metro quadro de um ambiente são necessários 18W de potência. Desenvolva um algoritmo que leia a largura e a profundidade de uma sala e informa a potência da lâmpada que deve ser usada.     
-O. João tem um problema com os números. Ele sempre escreve números de quatro algarismos de trás para frente (o número 1234 ele escreve 4321). Escreva um algoritmo que imprima invertidos os números de quatro algarismos.      
+K. Escreva um algoritmo que receba os lados de quadrilátero e diga se ele é um quadrado ou não.     
+L. Desenvolva um algoritmo que leia um valor de hora (uma variável para a hora e outra para minuto) e informe quantos minutos se passaram desde o início do dia.    
+M. Sabe-se que para iluminar 1 metro quadro de um ambiente são necessários 18W de potência. Desenvolva um algoritmo que leia a largura e a profundidade de uma sala e informa a potência da lâmpada que deve ser usada.     
+N. João tem um problema com os números. Ele sempre escreve números de quatro algarismos de trás para frente (o número 1234 ele escreve 4321). Escreva um algoritmo que imprima invertidos os números de quatro algarismos.      
 Estruturas condicionais  
-P. Escreva um algoritmo para ler um número e determinar se ele é maior, igual ou menor que zero.    
-Q. Escreva um algoritmo que leia dois números e exiba-os em ordem crescente.    
-R. Escreva um algoritmo que leia dois números e exiba o maior deles.    
-S. Escreva um algoritmo que leia três valores inteiros e e mostre-os em ordem decrescente.      
-T. Elabore um algoritmo que leia três valores inteiros e calcule a soma do menor valor com o maior.     
-U. Elabore um algoritmo que leia quatro valores inteiros exiba a média aritmética entre eles. O algoritmo também deve exibir os números menores e maiores do que a média.   
-V. Escreva um algoritmo que leia dois valores monetários em reais e centavos e calcule a soma entre eles. Note que o valor somado do centavos não pode ser maior ou igual a 100.    
-X. Desenvolva um algoritmo que calcule as raízes de uma equação do 2º grau, na forma Ax² + Bx + C, levando em consideração a existência de raízes reais.    
-Y. Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:     
+O. Escreva um algoritmo para ler um número e determinar se ele é maior, igual ou menor que zero.    
+P. Escreva um algoritmo que leia dois números e exiba-os em ordem crescente.    
+Q. Escreva um algoritmo que leia dois números e exiba o maior deles.    
+R. Escreva um algoritmo que leia três valores inteiros e e mostre-os em ordem decrescente.      
+S. Elabore um algoritmo que leia três valores inteiros e calcule a soma do menor valor com o maior.     
+T. Elabore um algoritmo que leia quatro valores inteiros exiba a média aritmética entre eles. O algoritmo também deve exibir os números menores e maiores do que a média.   
+U. Escreva um algoritmo que leia dois valores monetários em reais e centavos e calcule a soma entre eles. Note que o valor somado do centavos não pode ser maior ou igual a 100.    
+V. Desenvolva um algoritmo que calcule as raízes de uma equação do 2º grau, na forma Ax² + Bx + C, levando em consideração a existência de raízes reais.    
+X. Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:     
 Para homens: (72.7 * h) – 58        
 Para mulheres (62.1 * h) – 44.7     
     

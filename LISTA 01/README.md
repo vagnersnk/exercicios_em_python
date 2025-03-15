@@ -1,10 +1,10 @@
-A. Faça um algoritmo para calcular o volume de uma esfera de raio R, em que R é um dados fornecido pelo usuário. O volume da esfera é calculado por .
-B. Construa um algoritmo que, tendo como dados de entrada dois pontos quaisquer do plano, P(x1, y1) e Q(x2, y2), imprima a distância entre eles.
-C fórmula que efetua tal cálculo é: . g. Escreva um algoritmo para calcular e exibir a média ponderada de 2 notas dadas (nota1 = peso 6 e nota2 = peso 4).
-D. Escreva um algoritmo para calcular e exibir o comprimento de uma circunferência, sendo dada o valor de seu raio.
-E. Escreva um algoritmo para calcular a área de um triângulo, sendo dados a sua base e a sua altura.
-F. A ordem das atribuições é importante? A←B e C←A tem o mesmo efeito de C←A e A←B?
-G. Escreva um algoritmo que leia duas variáveis inteiras e troque o conteúdo entre elas.
+A. Faça um algoritmo para calcular o volume de uma esfera de raio R, em que R é um dados fornecido pelo usuário. O volume da esfera é calculado por .   
+B. Construa um algoritmo que, tendo como dados de entrada dois pontos quaisquer do plano, P(x1, y1) e Q(x2, y2), imprima a distância entre eles.    
+C fórmula que efetua tal cálculo é: . g. Escreva um algoritmo para calcular e exibir a média ponderada de 2 notas dadas (nota1 = peso 6 e nota2 = peso 4).      
+D. Escreva um algoritmo para calcular e exibir o comprimento de uma circunferência, sendo dada o valor de seu raio.     
+E. Escreva um algoritmo para calcular a área de um triângulo, sendo dados a sua base e a sua altura.    
+F. A ordem das atribuições é importante? A←B e C←A tem o mesmo efeito de C←A e A←B?     
+G. Escreva um algoritmo que leia duas variáveis inteiras e troque o conteúdo entre elas.    
 H. Prepare um algoritmo capaz de inverter um número de 3 dígitos fornecido pelo usuário. A inversão consiste em apresentar primeiro a unidade, seguida da dezena e por último a centena.
 I. Desenvolva um algoritmo que leia três valores (a, b e c) de uma equação do segundo grau do tipo ax2+bx+c = 0 e mostre as raízes dessa equação.
 J. Desenvolva um algoritmo que leia duas notas e calcule a nota final do aluno. Considere a média ponderada, onde a primeira nota tem peso 2 e a segunda nota tem peso 3.

@@ -18,9 +18,8 @@ Q. Escreva um algoritmo que leia dois números e exiba o maior deles.
 R. Escreva um algoritmo que leia três valores inteiros e e mostre-os em ordem decrescente.      
 S. Elabore um algoritmo que leia três valores inteiros e calcule a soma do menor valor com o maior.     
 T. Elabore um algoritmo que leia quatro valores inteiros exiba a média aritmética entre eles. O algoritmo também deve exibir os números menores e maiores do que a média.   
-U. Escreva um algoritmo que leia dois valores monetários em reais e centavos e calcule a soma entre eles. Note que o valor somado do centavos não pode ser maior ou igual a 100.    
-V. Desenvolva um algoritmo que calcule as raízes de uma equação do 2º grau, na forma Ax² + Bx + C, levando em consideração a existência de raízes reais.    
-X. Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:     
+U. Escreva um algoritmo que leia dois valores monetários em reais e centavos e calcule a soma entre eles. Note que o valor somado do centavos não pode ser maior ou igual a 100.     
+V. Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:     
 Para homens: (72.7 * h) – 58        
 Para mulheres (62.1 * h) – 44.7     
     

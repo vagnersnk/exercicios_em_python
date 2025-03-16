@@ -1,0 +1,1 @@
+#Faça um algoritmo que some os n primeiros números, a partir de 1. (Use a instrução Ler(n))

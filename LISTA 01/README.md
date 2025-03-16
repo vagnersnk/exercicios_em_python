@@ -11,8 +11,7 @@ J. Desenvolva um algoritmo que leia duas notas e calcule a nota final do aluno. 
 K. Escreva um algoritmo que receba os lados de quadrilátero e diga se ele é um quadrado ou não.     
 L. Desenvolva um algoritmo que leia um valor de hora (uma variável para a hora e outra para minuto) e informe quantos minutos se passaram desde o início do dia.    
 M. Sabe-se que para iluminar 1 metro quadro de um ambiente são necessários 18W de potência. Desenvolva um algoritmo que leia a largura e a profundidade de uma sala e informa a potência da lâmpada que deve ser usada.     
-N. João tem um problema com os números. Ele sempre escreve números de quatro algarismos de trás para frente (o número 1234 ele escreve 4321). Escreva um algoritmo que imprima invertidos os números de quatro algarismos.      
-Estruturas condicionais  
+N. João tem um problema com os números. Ele sempre escreve números de quatro algarismos de trás para frente (o número 1234 ele escreve 4321). Escreva um algoritmo que imprima invertidos os números de quatro algarismos.  
 O. Escreva um algoritmo para ler um número e determinar se ele é maior, igual ou menor que zero.    
 P. Escreva um algoritmo que leia dois números e exiba-os em ordem crescente.    
 Q. Escreva um algoritmo que leia dois números e exiba o maior deles.    

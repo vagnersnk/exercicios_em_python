@@ -1,4 +1,4 @@
-LISTA 3 - ARRAYS
+LISTA 3 - ARRAYS  
 A. Escreva um programa que leia 10 números e mostre-os na ordem em que foram lidos.  
 B. Escreva um programa que leia 10 números e mostre-os na ordem inversa a que foram lidos.  
 C. Escreva um programa que leia 10 números e mostre-os na ordem em que foram lidos, dizendo para cada número se é par ou ímpar.  

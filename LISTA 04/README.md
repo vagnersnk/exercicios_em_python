@@ -4,7 +4,8 @@ A. Leia 3 notas de 10 alunos e imprima em ordem crescente as médias obtidas.
 B. Leia 10 nomes e apresente-os em ordem alfabética crescente.  
 C. Leia o nome e altura de 30 pessoas e escreva o nome das pessoas, começando da mais alta até a mais baixa.  
 D. Leia a quantidade de unidades vendidas de 30 produtos em cada trimestre do ano e informe qual trimestre foi o de maior vendagem.  
-E. Gerar e imprimir uma matriz com 5 linhas e 5 colunas onde os seus elementos são da forma: 
+E. Gerar e imprimir uma matriz com 5 linhas e 5 colunas onde os seus elementos são da forma:
+
     a) A[i,j] = 2i + 7j – 2 se i < j  
     b) A[i,j] = 3i – 1 se i = j
     c) A[i,j] = 4i – 5j2 se i > j  

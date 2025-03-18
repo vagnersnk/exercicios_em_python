@@ -1,6 +1,6 @@
 A. Faça um algoritmo que some os n primeiros números, a partir de 1.
 B. Imprimir os cem primeiros números pares.  
-C. Imprimir todos os números pares de um até cem.  
+C. Pedro está a aprender a fazer mágica. Ele diz que é capaz de adivinhar qualquer número que alguém pensar. Para verificar se é verdade, crie um algoritmo que represente este truque. Ou seja, um número deverá ser lido e guardado em segredo. Em seguida, Pedro tentará acertar o número secreto, tendo tentativas ilimitadas enquanto os números não forem iguais (palpite e segredo).
 D. Crie um algoritmo que lê dez números e imprime o quadrado de cada número.
 E. Crie um algoritmo que lê números enquanto forem positivos e ao final imprima quantos números foram digitados e a soma dos mesmos.  
 F. Crie um algoritmo que receba vários números, enquanto forem positivos, e ao final imprima a média dos números digitados.  
@@ -10,9 +10,7 @@ I. Crie um algoritmo que mostre a soma dos cem primeiros números primos.
 J. Faça um algoritmo para calcular o MMC de dois números. (MMC é o menor múltiplo comum entre os dois números. Note que um dos dois números já pode ser o MMC)  
 K.Faça um algoritmo que represente a expressão matemática abaixo: i=5n(2i2+5i+1)  
 L. Crie um algoritmo capaz de calcular a potenciação de um número utilizando o operador de multiplicação “*”.  
-M. Com base no algoritmo do item anterior, crie um novo algoritmo para calcular a potenciação de um número utilizando o operador de soma “+”. (Lembre que é possível representar uma multiplicação com sucessivas somas.)  
+M. Com base no algoritmo do ‘item’ anterior, crie um algoritmo para calcular a potenciação de um número utilizando o operador de soma “+”. (Lembre que é possível representar uma multiplicação com sucessivas somas.)  
 N. Faça um algoritmo que liste todos os divisores de um número.  
 O. Faça um algoritmo que liste os 20 primeiros múltiplos de um número.
 P. Crie um algoritmo que leia nomes de pessoas enquanto for diferente do seu próprio nome.  
-Q. Joãozinho tem 2 anos de idade e está aprendendo a contar. Ajude ele a contar, passo a passo, de 1 até um número informado. Portanto, a entrada deve ser o número final, e a saída será cada número neste intervalo.  
-R. Pedro está aprendendo a fazer mágica. Ele diz que é capaz de adivinhar qualquer número que alguém pensar. Para verificar se é verdade, crie um algoritmo que represente este truque. Ou seja, um número deverá ser lido e guardado em segredo. Em seguida, Pedro tentará acertar o número secreto, tendo tentativas ilimitadas enquanto os números não forem iguais (palpite e segredo).  

@@ -1,3 +1,4 @@
+LISTA 1 - ALGORITIMOS SEQUENCIAIS
 A. Faça um algoritmo para calcular o volume de uma esfera de raio R, em que R é um dados fornecido pelo usuário. O volume da esfera é calculado por .   
 B. Construa um algoritmo que, tendo como dados de entrada dois pontos quaisquer do plano, P(x1, y1) e Q(x2, y2), imprima a distância entre eles.    
 C. Escreva um algoritmo para calcular e exibir a média ponderada de 2 notas dadas (nota1 = peso 6 e nota2 = peso 4).      

@@ -1,7 +1,8 @@
 LISTA 06 - FUNCÕES E CLASSES
 ### A. Implemente uma função que recebe por parâmetro o raio de uma esfera e retorna o seu volume. A fórmula para o volume de uma esfera é:  
+$$
 \[ \text{Volume} = \frac{4}{3} \times \pi \times \text{raio}^3 \]
-
+$$
 ### B. Implemente uma função que recebe por parâmetro o tempo de duração de uma maratona, expressa em horas, minutos e segundos, e retorna esse tempo apenas em segundos.  
 Exemplo: 1 hora, 2 minutos e 32 segundos equivalem a 3752 segundos.
 
@@ -34,12 +35,12 @@ class Produto:
         self.preco = preco
 ```
 ### H. Implemente funções para cada uma das pesquisas abaixo:
-Dado um título, imprima suas informações (o título também é um parâmetro da função).
-Dado um preço P, imprima o título dos produtos cujo preço é maior que P (o preço também é um parâmetro da função).
-Retorne a média das quantidades vendidas por todos os produtos.
+-  Dado um título, imprima suas informações (o título também é um parâmetro da função).
+-  Dado um preço P, imprima o título dos produtos cujo preço é maior que P (o preço também é um parâmetro da função).
+-  Retorne a média das quantidades vendidas por todos os produtos.
 ### I. Construa um programa que leia o resultado da loteria esportiva com 13 jogos. O resultado em cada jogo pode ser "time 1", "empate", ou "time 2". Em seguida, leia o nome e o palpite de 30 apostadores na loteria. Ao final, informe:
-O nome e número de acertos de cada apostador.
-O(s) nome(s) do(s) apostador(es) com maior quantidade de acertos.
-A quantidade média de acertos. O programa deverá ter no mínimo 4 funções: ler dados, e outras 3 equivalentes a cada requisito descrito acima.
+-  O nome e número de acertos de cada apostador.
+-  O(s) nome(s) do(s) apostador(es) com maior quantidade de acertos.
+-   A quantidade média de acertos. O programa deverá ter no mínimo 4 funções: ler dados, e outras 3 equivalentes a cada requisito descrito acima.
 ### J. Implemente uma função que determine se um número é ímpar (retorno 1) ou par (retorno 2). Para isso, não use o operador de resto, mas sim subtrações sucessivas.
 

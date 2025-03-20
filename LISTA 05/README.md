@@ -1,15 +1,18 @@
-LISTA 05 - STRINGS  
-A. Imprima uma string de trás pra frente.
-B. Faça um programa que leia uma string do teclado e diga se ela é palíndromo, ou seja, pode ser lida tanto de trás pra frente quanto de frente para trás.  
-C. Conte quantas letras maiúsculas existem em uma string lida do teclado.  
-D. Conte quantas letras minúsculas existem em uma string lida do teclado.  
-E. Leia 2 strings de mesmo tamanho (A e B) e gere uma terceira string (C) formada pelos caracteres de A e B intercalados.  
-F. Faça um programa em C que leia uma string s, um caracter chAtual, um caracter chNovo e substitua todo caracter chAtual de s pelo chNovo. O programa deve retornar também o número de substituições que foram realizadas.  
-G. Leia 2 strings e informe se são iguais e, caso contrário, escreve-as em ordem alfabética.  
-H. Elabore um programa que manipule uma agenda com nome, telefone e endereço de 20 pessoas e, ao final, efetue pesquisas nos nomes armazenados.   
-O usuário deverá sempre ser questionado se deseja efetuar outra pesquisa.
-I. Elabore um programa que armazene o nome, altura e idade de 30 pessoas. Ao final, apresente o nome das pessoas com idade acima da média, a idade média das pessoas com altura inferior a 1,5m e o nome da pessoa mais nova e da mais velha.  
-J. Elabore um programa que manipule as seguintes informações de 40 alunos de uma turma: nome, idade e média final nas 6 disciplinas do semestre. O programa deverá apresentar o nome e idade dos 10 alunos com maior média geral no semestre, em ordem alfabética.  
-K . Elabore um programa que manipule as seguintes informações de, no máximo, 100 funcionários de uma empresa: nome, matrícula, salário e tempo de vínculo. O programa deverá apresentar:  
-– O nome e matrícula dos funcionários com mais de 10 anos de vínculo com a empresa, em ordem alfabética;  
-– A média salarial dos funcionários com mais de 20 anos de vínculo.  
+# LISTA 05 - STRINGS
+### A. Escreva um programa que receba uma string e a imprima de trás para frente.
+### B. Faça um programa que leia uma string do teclado e verifique se ela é um palíndromo, ou seja, se pode ser lida da mesma forma de trás para frente.
+### C. Leia uma string do teclado e conte quantas letras maiúsculas ela contém.
+### D. Leia uma string do teclado e conte quantas letras minúsculas ela contém.
+### E. Leia duas strings de mesmo tamanho e gere uma terceira string formada pelos caracteres de ambas intercalados.
+### F. Faça um programa que leia uma string s, um caractere ch_atual e um caractere ch_novo, substituindo todas as ocorrências de ch_atual em s por ch_novo. O programa também deve informar o número de substituições realizadas.
+### G. Leia duas strings e verifique se são iguais. Caso sejam diferentes, exiba-as em ordem alfabética.
+### H. Implemente um programa para gerenciar uma agenda com nome, telefone e endereço de 20 pessoas. O programa deve permitir a busca de nomes armazenados, perguntando ao usuário se deseja realizar outra pesquisa após cada consulta.
+### I. Elabore um programa que armazene o nome, altura e idade de 30 pessoas. Ao final, exiba:
+- Os nomes das pessoas cuja idade está acima da média.
+- A idade média das pessoas com altura inferior a 1,5m.
+- O nome da pessoa mais nova e da mais velha.
+### J. Implemente um programa para armazenar as seguintes informações de 40 alunos: nome, idade e a média final em 6 disciplinas do semestre. O programa deve exibir o nome e a idade dos 10 alunos com maior média geral, em ordem alfabética.
+### K. Desenvolva um programa para gerenciar informações de, no máximo, 100 funcionários de uma empresa, contendo nome, matrícula, salário e tempo de vínculo. O programa deve apresentar:
+- O nome e a matrícula dos funcionários com mais de 10 anos de vínculo, em ordem alfabética.
+- A média salarial dos funcionários com mais de 20 anos de vínculo.
+

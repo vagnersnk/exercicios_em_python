@@ -1,4 +1,4 @@
-LISTA 06 - FUNCÕES E CLASSES
+# LISTA 06 - FUNCÕES E CLASSES
 ### A. Implemente uma função que recebe por parâmetro o raio de uma esfera e retorna o seu volume. A fórmula para o volume de uma esfera é:  
 $$
 \[ \text{Volume} = \frac{4}{3} \times \pi \times \text{raio}^3 \]
@@ -35,7 +35,7 @@ class Produto:
         self.preco = preco
 ```
 ### H. Implemente funções para cada uma das pesquisas abaixo:
--  Dado um título, imprima suas informações (o título também é um parâmetro da função).
+-  Dado um título, imprima as suas informações (o título também é um parâmetro da função).
 -  Dado um preço P, imprima o título dos produtos cujo preço é maior que P (o preço também é um parâmetro da função).
 -  Retorne a média das quantidades vendidas por todos os produtos.
 ### I. Construa um programa que leia o resultado da loteria esportiva com 13 jogos. O resultado em cada jogo pode ser "time 1", "empate", ou "time 2". Em seguida, leia o nome e o palpite de 30 apostadores na loteria. Ao final, informe:
